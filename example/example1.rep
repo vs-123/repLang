@@ -1,0 +1,25 @@
+; Rep-lang example file by Vahin Sharma
+
+rep[1, (\)]
+rep[10, ( )]
+rep[1, (/)]
+nl[]
+
+rep[2, (\)]
+rep[8, ( )]
+rep[2, (/)]
+nl[]
+
+rep[3, (\)]
+rep[6, ( )]
+rep[3, (/)]
+nl[]
+
+rep[4, (\)]
+rep[4, ( )]
+rep[4, (/)]
+nl[]
+
+rep[5, (\)]
+rep[2, ( )]
+rep[5, (/)]
